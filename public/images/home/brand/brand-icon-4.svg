@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" fill="none">
+  <path d="M20 6 L18 16 Q15 20 18 26 L20 34 L22 26 Q25 20 22 16 Z" fill="#7ab648" opacity="0.3"/>
+  <path d="M20 10 L19 16 Q17 20 19 24 L20 30 L21 24 Q23 20 21 16 Z" fill="#7ab648" opacity="0.5"/>
+  <text x="38" y="24" font-family="serif" font-size="13" fill="#5c3c27" font-weight="500">Aloe</text>
+</svg>

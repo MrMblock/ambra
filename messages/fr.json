@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "home": "Accueil | AMBRA",
+    "contact": "Contact | AMBRA"
+  },
+  "nav": {
+    "home": "Accueil",
+    "brand": "La marque",
+    "products": "Nos produits",
+    "advice": "Conseils",
+    "contact": "Contact"
+  },
+  "header": {
+    "menu": "Menu"
+  },
+  "hero": {
+    "title": "Nous créons des produits",
+    "titleItalic": "d'exception.",
+    "description": "Chez AMBRA, nous imaginons des soins précieux à base d'ambre, pensés pour sublimer la peau et les cheveux.",
+    "cta": "Découvrir nos produits"
+  },
+  "brand": {
+    "lovedBy": "Des ingrédients nobles, sélectionnés avec soin"
+  },
+  "webResult": {
+    "heading": "Une philosophie de beauté ancrée dans la tradition et portée par l'excellence, avec",
+    "totalProjects": "Ingrédients naturels",
+    "yearsExperience": "Années de recherche",
+    "designAwards": "Produits dans la gamme"
+  },
+  "innovation": {
+    "title": "L'ambre au cœur de",
+    "titleItalic": "chaque formule",
+    "seeWork": "Découvrez notre savoir-faire.",
+    "startJourney": "Des soins pensés pour sublimer votre beauté naturelle",
+    "letsCollaborate": "Découvrir la gamme",
+    "viewPortfolio": "Notre histoire"
+  },
+  "onlinePresence": {
+    "title": "Nos produits pensés pour",
+    "titleItalic": "révéler votre éclat"
+  },
+  "teamSection": {
+    "title": "Les fondateurs d'AMBRA"
+  },
+  "faq": {
+    "title": "Vos questions sur",
+    "titleItalic": "nos soins"
+  },
+  "solution": {
+    "title": "Prêt(e) à révéler votre",
+    "titleItalic": "beauté naturelle ?",
+    "description": "Découvrez nos soins à base d'ambre, formulés pour sublimer votre peau et vos cheveux au quotidien. Une expérience sensorielle unique, entre luxe et nature.",
+    "letsCollaborate": "Nous contacter"
+  },
+  "footer": {
+    "tagline": "AMBRA — Des soins précieux à base d'ambre, pour sublimer votre beauté au quotidien.",
+    "sitemap": "Navigation",
+    "contactUs": "Contact",
+    "aboutUs": "La marque",
+    "work": "Nos produits",
+    "services": "Conseils",
+    "pricing": "Boutique",
+    "otherPages": "Informations",
+    "error404": "Mentions légales",
+    "termsConditions": "CGV",
+    "privacyPolicy": "Politique de confidentialité",
+    "documentation": "FAQ",
+    "contactDetails": "Nous contacter",
+    "copyright": "©2025 AMBRA. Tous droits réservés"
+  },
+  "api": {
+    "innovation": {
+      "brandStrategy": "Soins\nVisage",
+      "digitalMarketing": "Soins\nCheveux",
+      "uiuxDesign": "Huiles\nPrécieuses",
+      "analyticsReporting": "Rituels\nBien-être",
+      "webDevelopment": "Coffrets\nCadeaux"
+    },
+    "webResult": {
+      "creativity": "Ambre",
+      "innovation": "Pureté",
+      "strategy": "Éclat"
+    },
+    "faq": {
+      "q1": "Qu'est-ce que l'ambre et quels sont ses bienfaits ?",
+      "q2": "Vos produits sont-ils adaptés aux peaux sensibles ?",
+      "q3": "D'où proviennent vos ingrédients ?",
+      "q4": "Comment choisir le soin adapté à mon type de peau ?",
+      "q5": "Proposez-vous la livraison en France et à l'international ?",
+      "a1": "L'ambre est une résine fossile aux propriétés apaisantes et régénérantes reconnues depuis des siècles. Chez AMBRA, nous utilisons un extrait d'ambre purifié, riche en acide succinique, qui favorise l'éclat naturel de la peau et renforce la fibre capillaire.",
+      "a2": "Oui, tous nos soins sont formulés avec des ingrédients doux et naturels, testés dermatologiquement. Ils conviennent aux peaux sensibles et ne contiennent ni parabènes, ni sulfates, ni silicones.",
+      "a3": "Notre ambre provient de la mer Baltique, reconnue pour la qualité exceptionnelle de ses résines. Les autres ingrédients sont sourcés auprès de producteurs biologiques certifiés, principalement en France et en Europe.",
+      "a4": "Nous proposons un diagnostic personnalisé sur notre site. Vous pouvez également nous contacter directement pour bénéficier de conseils adaptés à vos besoins spécifiques.",
+      "a5": "Oui, nous livrons partout en France métropolitaine sous 48h et à l'international sous 5 à 7 jours ouvrés. La livraison est offerte en France à partir de 60€ d'achat."
+    },
+    "achievements": {
+      "framerTitle": "Certification Bio",
+      "framerDesc": "Nos formules sont certifiées biologiques et respectent les normes les plus exigeantes.",
+      "dribbbleTitle": "Cruelty Free",
+      "dribbbleDesc": "Aucun de nos produits n'est testé sur les animaux. Beauté éthique garantie.",
+      "awwwardsTitle": "Made in France",
+      "awwwardsDesc": "Tous nos soins sont formulés et fabriqués en France, dans le respect de l'environnement."
+    }
+  },
+  "languageSwitcher": {
+    "label": "Langue"
+  }
+}

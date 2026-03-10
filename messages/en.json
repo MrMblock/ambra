@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "home": "Home | AMBRA",
+    "contact": "Contact | AMBRA"
+  },
+  "nav": {
+    "home": "Home",
+    "brand": "The Brand",
+    "products": "Our Products",
+    "advice": "Advice",
+    "contact": "Contact"
+  },
+  "header": {
+    "menu": "Menu"
+  },
+  "hero": {
+    "title": "We create exceptional",
+    "titleItalic": "products.",
+    "description": "At AMBRA, we imagine precious amber-based treatments, designed to enhance your skin and hair.",
+    "cta": "Discover our products"
+  },
+  "brand": {
+    "lovedBy": "Noble ingredients, carefully selected"
+  },
+  "webResult": {
+    "heading": "A beauty philosophy rooted in tradition and driven by excellence, with",
+    "totalProjects": "Natural ingredients",
+    "yearsExperience": "Years of research",
+    "designAwards": "Products in the range"
+  },
+  "innovation": {
+    "title": "Amber at the heart of",
+    "titleItalic": "every formula",
+    "seeWork": "Discover our expertise.",
+    "startJourney": "Treatments designed to enhance your natural beauty",
+    "letsCollaborate": "Discover the range",
+    "viewPortfolio": "Our story"
+  },
+  "onlinePresence": {
+    "title": "Our products designed to",
+    "titleItalic": "reveal your radiance"
+  },
+  "teamSection": {
+    "title": "The founders of AMBRA"
+  },
+  "faq": {
+    "title": "Your questions about",
+    "titleItalic": "our treatments"
+  },
+  "solution": {
+    "title": "Ready to reveal your",
+    "titleItalic": "natural beauty?",
+    "description": "Discover our amber-based treatments, formulated to enhance your skin and hair every day. A unique sensory experience, between luxury and nature.",
+    "letsCollaborate": "Contact us"
+  },
+  "footer": {
+    "tagline": "AMBRA — Precious amber-based treatments, to enhance your beauty every day.",
+    "sitemap": "Navigation",
+    "contactUs": "Contact",
+    "aboutUs": "The Brand",
+    "work": "Our Products",
+    "services": "Advice",
+    "pricing": "Shop",
+    "otherPages": "Information",
+    "error404": "Legal notice",
+    "termsConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "documentation": "FAQ",
+    "contactDetails": "Contact us",
+    "copyright": "©2025 AMBRA. All Rights Reserved"
+  },
+  "api": {
+    "innovation": {
+      "brandStrategy": "Face\nCare",
+      "digitalMarketing": "Hair\nCare",
+      "uiuxDesign": "Precious\nOils",
+      "analyticsReporting": "Wellness\nRituals",
+      "webDevelopment": "Gift\nSets"
+    },
+    "webResult": {
+      "creativity": "Amber",
+      "innovation": "Purity",
+      "strategy": "Radiance"
+    },
+    "faq": {
+      "q1": "What is amber and what are its benefits?",
+      "q2": "Are your products suitable for sensitive skin?",
+      "q3": "Where do your ingredients come from?",
+      "q4": "How do I choose the right treatment for my skin type?",
+      "q5": "Do you offer delivery in France and internationally?",
+      "a1": "Amber is a fossil resin with soothing and regenerating properties recognized for centuries. At AMBRA, we use a purified amber extract, rich in succinic acid, which promotes the skin's natural radiance and strengthens hair fiber.",
+      "a2": "Yes, all our treatments are formulated with gentle, natural ingredients and dermatologically tested. They are suitable for sensitive skin and contain no parabens, sulfates, or silicones.",
+      "a3": "Our amber comes from the Baltic Sea, renowned for the exceptional quality of its resins. Other ingredients are sourced from certified organic producers, mainly in France and Europe.",
+      "a4": "We offer a personalized diagnosis on our website. You can also contact us directly for advice tailored to your specific needs.",
+      "a5": "Yes, we deliver throughout metropolitan France within 48 hours and internationally within 5 to 7 business days. Delivery is free in France for orders over €60."
+    },
+    "achievements": {
+      "framerTitle": "Organic Certified",
+      "framerDesc": "Our formulas are organically certified and meet the highest standards.",
+      "dribbbleTitle": "Cruelty Free",
+      "dribbbleDesc": "None of our products are tested on animals. Ethical beauty guaranteed.",
+      "awwwardsTitle": "Made in France",
+      "awwwardsDesc": "All our treatments are formulated and manufactured in France, with respect for the environment."
+    }
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}
